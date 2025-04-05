@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm Abhilash — Senior Analyst aspiring to become Generative AI Engineer.
 
-<!--
-**mynameisabhi2k/mynameisabhi2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building with Large Language Models, LangChain, RAG systems, and everything at the intersection of AI and creativity. Currently focused on turning ideas into intelligent products using GPT-4, LangChain, Vector Databases, and Streamlit.
 
-Here are some ideas to get you started:
+🚀 Current Focus
+🧠 Building GenAI apps with LLMs + LangChain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 Exploring RAG (Retrieval-Augmented Generation)
+
+📚 Learning deeply about embeddings, vector stores (FAISS, Chroma), and tool-augmented agents
+
+🛠️ Hosting real-world GenAI tools and prototypes
+
+🧠 Featured Projects
+Project	Description
+🔥 Startup Idea Generator	Generate startup ideas with GPT-4, plus VC-style pitch, MVP, persona, SWOT, and market trends.
+
+🛠️ Tech Stack & Tools
+
+```
+LLMs         : GPT-4, OpenAI APIs
+Frameworks   : LangChain, Streamlit,
+Databases    : FAISS, ChromaDB
+Infra        : HuggingFace
+Languages    : Python
+Tools        : Git, GitHub
+
+```
+
+📫 Let's Connect
+
+📧 Email: bandla.abhilash2k@gmail.com
+
+✨ Fun Facts
+🧩 I love solving real-world problems using AI.
+
+🗂️ Currently working on 3–4 GenAI projects to become interview-ready.
+
+📈 My goal: Land a GenAI role in 2025 🚀
