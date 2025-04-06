@@ -9,7 +9,6 @@ I'm passionate about building with Large Language Models, LangChain, RAG systems
 
 📚 Learning deeply about embeddings, vector stores (FAISS, Chroma), and tool-augmented agents
 
-🛠️ Hosting real-world GenAI tools and prototypes
 
 🧠 Featured Projects
 Project	Description
@@ -19,7 +18,7 @@ Project	Description
 
 ```
 LLMs         : GPT-4, OpenAI APIs
-Frameworks   : LangChain, Streamlit,
+Frameworks   : LangChain, Streamlit
 Databases    : FAISS, ChromaDB
 Infra        : HuggingFace
 Languages    : Python
